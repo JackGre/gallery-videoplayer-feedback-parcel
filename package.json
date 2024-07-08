@@ -1,0 +1,28 @@
+{
+  "name": "gallery-videoplayer-feedback-parcel",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackGre/gallery-videoplayer-feedback-parcel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackGre/gallery-videoplayer-feedback-parcel/issues"
+  },
+  "homepage": "https://github.com/JackGre/gallery-videoplayer-feedback-parcel#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "@vimeo/player": "^2.23.0",
+    "lodash.throttle": "^4.1.1",
+    "simplelightbox": "^2.14.3"
+  }
+}
